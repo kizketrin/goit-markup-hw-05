@@ -192,12 +192,10 @@ h1, h2, h3, h4, p {
 }
 
 .main-title {
-    letter-spacing: 0.08em;
+    letter-spacing: 0.02em;
     color: var(--button-color);
     font-size: 56px;
-    width: 600px;
-    margin-right: auto;
-    margin-left: auto;
+    width: 550px;
     text-align: center;
     line-height: 60px;
 }
